@@ -1,0 +1,30 @@
+.container{
+    align-items: center;
+    justify-content: center;
+}
+
+.heading{
+    font-family: 'varela Round', sans-serif;
+    font-size: 40px;
+    color: #cb7171;
+    line-height: 24px;
+    margin-top: 15px;
+    align-items: center;
+    justify-self: center;
+    padding: 0px 200px ;
+
+}
+.heading2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+    line-height: 24px;
+    margin-top: 15px;
+    align-items: center;
+    justify-self: center;
+    padding: 0px 200px ;
+}
+
+p{
+    padding: 0px 100px;
+}
